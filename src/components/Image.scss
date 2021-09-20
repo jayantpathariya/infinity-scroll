@@ -1,0 +1,11 @@
+.container {
+  margin: 10px;
+  text-align: center;
+  background-color: blueviolet;
+  display: flex;
+
+  .title {
+    margin-left: 10px;
+    font-weight: bold;
+  }
+}
